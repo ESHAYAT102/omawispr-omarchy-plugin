@@ -51,4 +51,4 @@ voxtype config set osd.enabled true
 
 ## License
 
-MIT. See `LICENSE`.
+MIT. See [LICENSE](LICENSE).
