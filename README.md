@@ -4,6 +4,8 @@ A calm, themed Voxtype recording HUD for Omarchy. The bottom-center pill uses
 independent rounded bars with a fixed height palette. Microphone peak levels
 control which heights are available, while each bar changes independently.
 
+<img width="1920" height="1080" src="./preview.png" />
+
 ## Requirements
 
 - Omarchy Quickshell with the service plugin contract.
