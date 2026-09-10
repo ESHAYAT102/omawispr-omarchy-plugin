@@ -17,7 +17,7 @@ system service, or make network requests.
 ## Install
 
 ```sh
-omarchy plugin add https://github.com/ESHAYAT102/omawispr.git --enable
+omarchy plugin add https://github.com/ESHAYAT102/omawispr-omarchy-plugin.git --enable
 ```
 
 Add `esh.omawispr` to the Omarchy shell plugin list if your shell version does
