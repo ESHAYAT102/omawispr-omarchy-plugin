@@ -44,7 +44,7 @@ Removing the plugin removes only OmaWispr. It does not modify Voxtype or the
 system configuration. Run this to get the Voxtype OSD back:
 
 ```sh
-voxtype config set osd.enabled false
+voxtype config set osd.enabled true
 ```
 
 ## License
